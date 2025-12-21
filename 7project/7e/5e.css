@@ -1,0 +1,45 @@
+.text-new {
+  font-family: Arial;
+  color: rgb(204, 131, 6);
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 7px;
+  font-size: 23px;
+}
+.text-macbook-pro {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.text-surpercharged {
+  text-align: center;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.text-from {
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.button-buy {
+  margin-left: 550px;
+  font-family: Arial;
+  background-color: rgb(20, 134, 222);
+  border: rgb(20, 134, 222);
+  border-color: rgb(20, 134, 222);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  border-radius: 20px;
+  
+}
+

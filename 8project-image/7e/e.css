@@ -1,0 +1,16 @@
+.search-box-e {
+  width: 500px;
+  font-size: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left:  25px;
+  padding-right: 25px;
+  border-radius: 30px;
+  border-style: solid;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  transition: 0.2s;
+  border: none;
+  border-color: none;
+  margin-top: 20px;
+  margin-left: 20px;
+}

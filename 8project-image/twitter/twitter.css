@@ -1,0 +1,19 @@
+.image-cat3 {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 35px;
+  vertical-align: middle;
+  margin-right: 5px;
+
+  
+}
+.text-what {
+  font-size: 30px;
+}
+.text-box {
+ width: 500px;
+ height: 40px;
+ vertical-align: middle;
+
+}

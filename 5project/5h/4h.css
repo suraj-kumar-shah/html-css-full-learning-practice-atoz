@@ -1,0 +1,42 @@
+.back-button{
+  color: black;
+  border-color: black;
+  border-width: 1.5px;
+  border-radius: 5px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+  padding-right: 13px;
+  vertical-align: 10px;
+  margin-right: 3px;
+}
+.back-button:hover{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  transition: .2s;
+
+}
+.next-button{
+  color: black;
+  border-color: black;
+  border-width: 1.5px;
+  border-radius: 5px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+  padding-right: 13px;
+  vertical-align: 10px;
+
+}
+.next-button:hover{
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  transition: .2s;
+
+}
+.search-button{
+  vertical-align: 10px;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+ 
+}

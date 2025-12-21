@@ -1,0 +1,6 @@
+.button-get-start:hover {
+  background-color: blue;
+}
+.button-get-start {
+  cursor: pointer;
+}

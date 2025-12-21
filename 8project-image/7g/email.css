@@ -1,0 +1,36 @@
+.email-text{
+  color:gray;
+  margin-top: 8px;
+  margin-bottom: 10px;
+  margin-left: 8px;
+}
+.email-search-box{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right:10px;
+  margin-left: 10px;
+
+}
+.email-policy-text {
+  color: gray;
+  margin-left: 10px;
+  margin-bottom: 10px;
+
+}
+.button-agree-join {
+  background-color: blue;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding-top: 35px;
+  padding-bottom: 35x;
+  padding-left: 120px;
+  padding-right: 120px;
+  text-align: center;
+  font-size :20px;
+
+
+}

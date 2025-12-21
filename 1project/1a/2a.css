@@ -1,0 +1,61 @@
+.request-now-button {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  height: 40px;
+  width: 130px;
+  border: black;
+  margin-left: 8px;
+  border-color: black;
+  border-style: solid;
+  cursor: pointer;
+}
+.request-now-button:hover {
+box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+transition: 0.2s;
+
+  
+}
+.add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  border: rgb(255, 216, 20);
+  height: 38px;
+  width: 225px;
+  border-color: rgb(255, 216, 20);
+  border-width: 2px;
+  margin-left: 20px;
+  border-radius: 100px;
+  font-size: 16px;
+  font-weight: bold;
+  border-style: solid;
+  margin-top: 5px;
+  cursor: pointer;
+  
+}
+.add-to-cart-button:hover {
+  box-shadow:  0 0 10px rgba(0, 0, 0, 0.37);
+  transition: 0.2s;
+
+
+}
+
+.sigh-up-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border-color: rgb(46, 164, 79);
+  border: rgb(46, 164, 79);
+  height: 45px;
+  width: 125px;
+  border-radius: 10px;
+  border-style: solid;
+  font-weight: bold;
+  font-size : 18px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.sigh-up-button:hover {
+  box-shadow : 0 0  10px rgba(0, 0, 0, 1);
+  transition: 0.2s;
+}
+.sigh-up-button:active {
+  background-color: aquamarine;
+}

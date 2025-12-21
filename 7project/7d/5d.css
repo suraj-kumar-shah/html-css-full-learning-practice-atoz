@@ -1,0 +1,19 @@
+.text-shopping {
+  font-family: Arail;
+  font-size: 37px;
+  font-weight: bold;
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.text-work-help {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 0px;
+}
+.text-learn-more {
+  font-family: Arial;
+  text-align: center;
+  color:cadetblue
+}

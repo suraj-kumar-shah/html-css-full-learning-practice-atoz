@@ -1,0 +1,30 @@
+.text-num-usd {
+  font-family: Arial;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  cursor: pointer;
+
+}
+.text-num-uds:hover {
+background-color: red;
+}
+
+.text-usd {
+  font-size: 25px;
+  color: gray;
+}
+.text-num-today {
+  color: green;
+  font-size: 22px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+.text-after {
+  color: gray;
+  font-size: 20px;
+  margin-top: 0px;
+}
+.text-num-per {
+  color: red;
+}

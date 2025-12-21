@@ -1,0 +1,62 @@
+.nike-h1-tag-text {
+  color: black;
+  font-size: 40px;
+  margin-bottom: -10px;
+  
+}
+.stock-h2-text {
+  color:rgb(0, 118, 0);
+  margin-bottom: -10px;
+
+}
+.free-delivery-text {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border-color: rgb(255, 216, 20);
+  border: rgb(255, 216, 20);;
+  border-style: solid;
+  height: 40px;
+  width: 150px;
+  border-radius: 70px;
+  font-size: 17px;
+  margin: 0 10px -10px 0;
+  cursor: pointer;
+  
+  
+
+}
+.add-to-cart-button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.30);
+  transition: 0.2s;
+}
+.add-to-cart-button:active {
+  background-color: blue;
+}
+.buy-now-button {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border-color: rgb(255, 164, 28);
+  border: rgb(255, 164, 28);
+  height: 40px;
+  width: 150px;
+  border-radius:70px;
+  font-size: 17px;
+  margin-top: -4px;
+  cursor: pointer;
+  
+}
+.buy-now-button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.30);
+  transition: 0.2s;
+
+}
+.buy-now-button:active {
+  background-color: green;
+}
+.amazon-in-link:hover{
+  color: blue;
+}

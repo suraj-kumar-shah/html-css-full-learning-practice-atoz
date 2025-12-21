@@ -1,0 +1,44 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+.video-title{
+  font-weight: bold;
+  font-size: 25px;
+  width: 400px;
+  line-height: 32px;
+  margin-bottom: 8px;
+}
+.text-views {
+  color: gray;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.text-admin-name{
+  color: gray;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.text-title{
+  color: gray;
+  width: 300px;
+  margin-bottom: 100px;
+}
+.text-shop-details {
+  background-color: rgb(227, 65, 64);
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 550px;
+}
+.text-apple-shop-now {
+  cursor: pointer;
+}
+.text-apple-shop-now:hover {
+  text-decoration: underline;
+}

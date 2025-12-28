@@ -1,0 +1,27 @@
+.thanks-text {
+  font-size: 22px;
+  width: 290px;
+  font-weight: bold;
+  font-style:arial;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+}
+.button-yes {
+display: inline-block;
+margin-top : -100px;
+margin-left: 10px;
+margin-right: 10px;
+font-size: 24px;
+padding-left: 4px;
+padding-right: 4px;
+
+
+
+}
+.button-no {
+  font-size: 24px;
+  padding-right: 4px;
+  padding-left: 4px;
+}

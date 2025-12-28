@@ -1,0 +1,27 @@
+.image-thumbnail {
+  display: inline-block;
+  width: 400px;
+  object-fit: contain;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: block;
+
+
+}
+.search-box {
+  font-size: 20px;
+}
+.video-tittle {
+
+  
+
+
+}
+.video-author {
+   display: inline-block;
+
+}
+.video-stats {
+   display: inline-block;
+
+}
